@@ -3,3 +3,8 @@
  echo "Really?";
  echo "yes really";
 ?>
+
+<?php
+echo "Hello World. Today is ".date("l").". ";
+?>
+How are you?
