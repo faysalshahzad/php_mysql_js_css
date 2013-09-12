@@ -1,0 +1,17 @@
+<script>
+switch (page)
+{
+	case "Home":  document.write("You selected Home")
+		break
+	case "About": document.write("You selected About")
+		break
+	case "News":  document.write("You selected News")
+		break
+	case "Login": document.write("You selected Login")
+		break
+	case "Links": document.write("You selected Links")
+		break
+	default: document.write("Unrecognized selection")
+		break
+}
+</script>
