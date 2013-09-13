@@ -1,3 +1,6 @@
 <?php
-    echo '6+2';
+    $msg = 10;
+    echo "you have\t ". $msg . "\n messages";
+	
+	
 ?>
