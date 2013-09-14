@@ -1,4 +1,8 @@
 <?php
+$bank_balance=50;
+$money = 10;
+$savings= 100;
+
 if ($bank_balance < 100)
 {
 	$money += 1000;
@@ -14,4 +18,10 @@ else
 	$savings += 50;
 	$bank_balance -= 50;
 }
+
+echo $bank_balance. "<br>";
+echo $money. "<br>";
+echo $savings. "<br>";
+
+
 ?>
