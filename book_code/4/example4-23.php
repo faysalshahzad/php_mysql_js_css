@@ -1,4 +1,6 @@
 <?php
+
+$page = "Login";
 switch ($page)
 {
 	case "Home":  echo "You selected Home";
