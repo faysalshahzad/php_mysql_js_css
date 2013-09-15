@@ -1,7 +1,7 @@
 <?php
 if (function_exists("array_combine"))
 {
-	echo "Function exists";
+	echo "Function exists ". phpversion();
 }
 else
 {
