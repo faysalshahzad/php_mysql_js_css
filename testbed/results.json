@@ -1,0 +1,58 @@
+{
+	"results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gujranwala",
+               "short_name" : "Gujranwala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gujranwala District",
+               "short_name" : "Gujranwala District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gujranwala, Pakistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2309645,
+                  "lng" : 74.2352988
+               },
+               "southwest" : {
+                  "lat" : 32.0682923,
+                  "lng" : 74.14340369999999
+               }
+            },
+            "location" : {
+               "lat" : 32.15,
+               "lng" : 74.1833333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2309645,
+                  "lng" : 74.2352988
+               },
+               "southwest" : {
+                  "lat" : 32.0682923,
+                  "lng" : 74.14340369999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
