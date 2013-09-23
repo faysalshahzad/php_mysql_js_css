@@ -1,5 +1,5 @@
 <?php // testfile.php
-$fh = fopen("testfile.txt", 'w') or die("Failed to create file");
+$fh = fopen("../../testfile.txt", 'w') or die("Failed to create file");
 $text = <<<_END
 Line 1
 Line 2
